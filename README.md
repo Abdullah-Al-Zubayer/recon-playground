@@ -1,4 +1,4 @@
-# Cybersecurity Reconnaissance Practice
+# Cybersecurity Passive Reconnaissance Practice
 
 This repository contains my hands-on practice in **cybersecurity passive reconnaissance and information gathering**.  
 All screenshots are **for educational and portfolio purposes only** and have been carefully reviewed to avoid any sensitive information.
